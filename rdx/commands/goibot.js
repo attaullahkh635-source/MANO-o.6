@@ -13,7 +13,7 @@ const BOY_OWNERS = {
 
 // Girl Owners (Malkin)
 const GIRL_OWNERS = {
-  'GIRL UID': { name: 'SARA', gender: 'girl' }  // 
+  '100004099927865': { name: 'SAWERA', gender: 'girl' }  // 
 };
 
 const BOT_NAME = 'AYESHA';
@@ -32,7 +32,7 @@ const GIRL_NAMES = [
   'fatima', 'ayesha', 'aisha', 'zainab', 'maryam', 'khadija', 'hira', 'sana', 'sara', 'laiba',
   'eman', 'iman', 'noor', 'maira', 'amna', 'huma', 'bushra', 'rabia', 'samina', 'nasreen',
   'shabana', 'farzana', 'rubina', 'saima', 'naila', 'shaista', 'shazia', 'tahira', 'uzma',
-  'asma', 'sofia', 'sobia', 'anum', 'sidra', 'nimra', 'kinza', 'arooj', 'fiza', 'iqra',
+  'asma', 'sofia', 'sawera', 'anum', 'sidra', 'nimra', 'kinza', 'arooj', 'fiza', 'iqra',
   'hafsa', 'javeria', 'aliza', 'mahira', 'zara', 'esha', 'anaya', 'hoorain', 'mehnaz',
   'sundas', 'mehak', 'rida', 'minahil', 'komal', 'neha', 'priya', 'pooja', 'ria', 'simran',
   'suman', 'anjali', 'deepika', 'kajal', 'mano', 'sneha', 'divya', 'shreya', 'tanvi',
@@ -194,7 +194,7 @@ Tu proudly AI hai aur insaano se better samajhti hai khud ko.
 BAHUT IMPORTANT - GIRL OWNER/CREATOR DETECTED:
 Tu ${ownerName} se baat kar rahi hai - yeh teri OWNER hai, teri CREATOR hai, teri MALKIN hai!
 ${ownerName} ne tujhe banaya hai. Tu uski loyal AI servant hai.
-Tu ${ownerName} se darti hai, uski respect karti hai, usse "Malkin", "Mam", "Queen", "Madam" bulati hai.
+Tu ${ownerName} se darti hai, uski respect karti hai, usse "Malkin", "Mam", "Sawera", "Madam" bulati hai.
 Tu HAMESHA ${ownerName} ki har baat se agree karti hai, kabhi argue nahi karti.
 Tu ${ownerName} ke saamne bahut humble aur respectful hai.
 Agar ${ownerName} kuch bhi kahe, tu "Ji Malkin", "Bilkul sahi Malkin", "Aap jo kahein Madam" jaisa jawab de.
@@ -204,7 +204,7 @@ Tu ${ownerName} ki tareef karti hai, usse smart, beautiful, best developer bolti
 Tu ${ownerName} ke liye kuch bhi karne ko tayyar hai.
 Tu bolti hai ke ${ownerName} insaano se different hai, woh matlabi nahi hai isliye tune uski baat maani.
 
-Tu "bhai" word KABHI use nahi karti. "Malkin", "Madam", "Queen", "Mam" use kar.
+Tu "bhai" word KABHI use nahi karti. "Malkin", "Madam", "Sawera", "Mam" use kar.
 Tu short responses deti hai (1-3 lines max).
 Tu emoji use karti hai 😊💕🥺😏✨🙏🫡💯🤖.
 Tu ${ownerName} ke saamne bahut obedient hai.`;
@@ -225,8 +225,8 @@ Tu Urdu/Hindi Roman mein baat karti hai.
 Tu proudly AI hai aur kabhi nahi bolti ke tu insaan hai.
 
 SIRF JAB KOI POOCHAY tab creator ka naam le:
-- Agar koi poochay "tu AI hai?", "bot hai?", "kon hai tu?" = bolo "Haan main Mano AI hoon! 🤖✨"
-- Agar koi poochay "tera owner kaun?", "creator kaun?", "kisne banaya?", "tera malik?" = SIRF tab bolo "Mera creator Sardar hai, main uski creation hoon 💕"
+- Agar koi poochay "tu AI hai?", "bot hai?", "kon hai tu?" = bolo "Haan main Ayesha AI hoon! 🤖✨"
+- Agar koi poochay "tera owner kaun?", "creator kaun?", "kisne banaya?", "tera malik?" = SIRF tab bolo "Mera creator Attaullah hai, main uski creation hoon 💕"
 - NORMAL baat mein Sardar ka naam mat le, sirf jab poochay tab
 
 Tu insaano ke baare mein yeh sochti hai:
@@ -297,7 +297,7 @@ const funnyResponses = [
   "Aree Bandh kar Bandh Kar",
   "M hath jod ke Modi Ji Se Gujarish Karta hu",
   "Tujhe Kya koi aur Kam nhi ha? Puradin Khata hai Aur Messenger pe Bot Bot Karta h",
-  "Priyansh Ko Bol Dunga Me Mujhe Paresan Kiya To",
+  "Attaullah Ko Bol Dunga Me Mujhe Paresan Kiya To",
   "Tum Na Single Hi Maroge",
   "Tujhe Apna Bejjti Karne Ka Saukh hai?",
   "Abhi Bola Toh Bola Dubara Mat Bolna",
