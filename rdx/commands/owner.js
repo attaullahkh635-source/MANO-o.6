@@ -36,7 +36,7 @@ module.exports = {
 ║  📱 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨:          ║
 ║                           ║
 ║  🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤:              ║
-║  facebook.com/KHUHARO ║
+║  facebook.com/100003615741592 ║
 ║                           ║
 ║  📲 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩:              ║
 ║  wa.me/923259260635       ║
