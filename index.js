@@ -7,7 +7,7 @@ const appstatePath = path.join(__dirname, 'appstate.json');
 let botModule = null;
 let botStarted = false;
 
-const BRAND_NAME = "ATTAULLAH RDX";
+const BRAND_NAME = "ATTAULLAH";
 const BOT_VERSION = "0.6";
 const BRAND_WHATSAPP = "+923259260635";
 const BRAND_EMAIL = "attaullahkh635@gmail.com";
@@ -19,7 +19,7 @@ function getConfig() {
     return {
       BOTNAME: 'AYESHA',
       PREFIX: '*',
-      ADMINBOT: ['100002392368552'],
+      ADMINBOT: ['100003615741592'],
       TIMEZONE: 'Asia/Karachi',
       PREFIX_ENABLED: true,
       REACT_DELETE_EMOJI: '😡',
